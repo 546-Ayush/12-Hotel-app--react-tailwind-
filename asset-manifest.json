@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/2-react-hotel-app/static/css/main.768bbc3e.css",
+    "main.js": "/2-react-hotel-app/static/js/main.2e212929.js",
+    "static/media/pty-img-3.jpg": "/2-react-hotel-app/static/media/pty-img-3.dc3a2969c4669525eafb.jpg",
+    "static/media/pty-img-5.jpg": "/2-react-hotel-app/static/media/pty-img-5.bb6a52587369c7695c18.jpg",
+    "static/media/pty-img-4.jpg": "/2-react-hotel-app/static/media/pty-img-4.cd4bf703c6ea8d833c39.jpg",
+    "static/media/pty-img-2.jpg": "/2-react-hotel-app/static/media/pty-img-2.62e939f7a8645679c407.jpg",
+    "static/media/pty-img-1.jpg": "/2-react-hotel-app/static/media/pty-img-1.228e93015e05f99242cb.jpg",
+    "index.html": "/2-react-hotel-app/index.html",
+    "main.768bbc3e.css.map": "/2-react-hotel-app/static/css/main.768bbc3e.css.map",
+    "main.2e212929.js.map": "/2-react-hotel-app/static/js/main.2e212929.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.768bbc3e.css",
+    "static/js/main.2e212929.js"
+  ]
+}
